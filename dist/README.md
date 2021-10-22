@@ -1,10 +1,10 @@
-  # empty
+  # Sample
 
-  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
 
-  empty
+  This is a sample demo to show the functionality of this application
 
   ## Table of Contents
 
@@ -17,22 +17,27 @@
 
   ## Installation
 
-  empty
+  npm install inquirer
 
   ## Usage 
 
-  empty
+  To easily generate READMEs
 
-  
+  ## License
+
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+    https://opensource.org/licenses/MIT 
+    
 
   ## Contributing
 
-  empty
+  No guidlines
   
   ## Tests
-  empty
+  No tests
 
   ## Questions
-  My GitHub: [empty](https://github.com/empty) <br>
-  Email me: empty
+  My GitHub: [riley-foust18](https://github.com/riley-foust18) <br>
+  Email me: riley.foust18@gmail.com
   
