@@ -58,12 +58,27 @@ const questions = [
     type: "input",
     name: "contributionsInfo",
     message: "Provide any guidlines for contributing to this project:",
+  },
+  {
+    type: "input",
+    name: "testsInfo",
+    message: "Detail any tests you'd like to include:",
+  },
+  {
+    type: "input",
+    name: "githubUsername",
+    message: "What is your GitHub username?",
+  },
+  {
+    type: "input",
+    name: "emailInfo",
+    message: "What is a good email someone can reach you?",
   }
 ];
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-  fs.writeFile(fileName, generateMarkdown(data), function(err) {
+  fs.writeFile("./dist/README.md", generateMarkdown(data), function(err) {
     if (err) {
       return console.log(err);
     }
