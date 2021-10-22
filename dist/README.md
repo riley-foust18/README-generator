@@ -1,41 +1,38 @@
-  # Run Buddy
+  # empty
 
-  ![badge](https://img.shields.io/badge/license-Mozilla-blue.svg)
+  
 
   ## Description
 
-  Run Buddy is an interactive site designed to get you in touch with trainers and get you moving!
+  empty
 
   ## Table of Contents
 
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * [Contributions](#contributions)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
   ## Installation
 
-  Download
+  empty
 
   ## Usage 
 
-  Website
+  empty
 
-  ## License
-
-  ![badge](https://img.shields.io/badge/license-Mozilla-blue.svg)
-
-  undefined 
   
 
   ## Contributing
 
-  Use it
+  empty
   
   ## Tests
-  None
+  empty
 
   ## Questions
-  My GitHub: [riley-foust18](https://github.com/riley-foust18)
-  Email me: riley.foust18@gmail.com;
+  My GitHub: [empty](https://github.com/empty) <br>
+  Email me: empty
   
