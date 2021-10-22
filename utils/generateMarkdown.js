@@ -47,9 +47,9 @@ function renderLicenseSection(license) {
   } else {
     return `## License
 
-    ${renderLicenseBadge(license)}
+  ${renderLicenseBadge(license)}
 
-    ${renderLicenseLink(license)} 
+  ${renderLicenseLink(license)} 
     `
   }
 }
